@@ -21,7 +21,7 @@ body,
 input,
 button {
   color: var(--font-color);
-  font: 400 16px "Roboto Mono", sans-serif;
+  font: 400 17px "Roboto Mono", sans-serif;
 }
 
 body {
